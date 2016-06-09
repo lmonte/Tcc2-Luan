@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+    android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Ok"
+        android:id="@+id/video_ok_button"
+        android:onClick="qrCodeView"
+        />
+    <VideoView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/videoView"
+        android:layout_gravity="center_horizontal"/>
+
+
+</LinearLayout>
+
+<!-- From: file:/Volumes/Dados/Android%20Tcc/QR-ReaderExample%203%202/qRReaderExample/src/main/res/layout/activity_supino.xml -->

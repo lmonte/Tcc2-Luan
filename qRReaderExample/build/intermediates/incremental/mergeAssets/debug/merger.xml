@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="1.0.0"><source path="/Volumes/Dados/Android Tcc/QR-ReaderExample 3 2/qRReaderExample/build/intermediates/exploded-aar/com.dlazaro66.qrcodereaderview/qrcodereaderview/1.0.0/assets"/></dataSet><dataSet config="main"><source path="/Volumes/Dados/Android Tcc/QR-ReaderExample 3 2/qRReaderExample/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Volumes/Dados/Android Tcc/QR-ReaderExample 3 2/qRReaderExample/src/debug/assets"/></dataSet></merger>

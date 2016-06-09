@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/LuanMonte/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.1.1/ab1142c5adfa474e7494cba19fd9fc6e73207960/stetho-1.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ab1142c5adfa474e7494cba19fd9fc6e73207960">
+        <dex dex="/Volumes/Dados/Android Tcc/QR-ReaderExample 3 2/qRReaderExample/build/intermediates/pre-dexed/debug/stetho-1.1.1-47e5e102b585de6197bc10fc6f88154f2b90a2fe.jar" />
+    </item>
+    <item
+        jar="/Volumes/Dados/Android Tcc/QR-ReaderExample 3 2/qRReaderExample/build/intermediates/exploded-aar/com.dlazaro66.qrcodereaderview/qrcodereaderview/1.0.0/jars/libs/core.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3c7e89b5124329cddba83bcf7c26c1c636c16b8">
+        <dex dex="/Volumes/Dados/Android Tcc/QR-ReaderExample 3 2/qRReaderExample/build/intermediates/pre-dexed/debug/core-964dc5f8d0856b043930a9ab79bcd2440d018733.jar" />
+    </item>
+    <item
+        jar="/Users/LuanMonte/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Volumes/Dados/Android Tcc/QR-ReaderExample 3 2/qRReaderExample/build/intermediates/pre-dexed/debug/jsr305-2.0.1-e13bddc73dd68fc942ae129fc6cf4e5d796c40e4.jar" />
+    </item>
+    <item
+        jar="/Users/LuanMonte/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/Volumes/Dados/Android Tcc/QR-ReaderExample 3 2/qRReaderExample/build/intermediates/pre-dexed/debug/okio-1.2.0-6b718758288eb2f1385e8158fded9588235cfd05.jar" />
+    </item>
+    <item
+        jar="/Users/LuanMonte/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.1.1/1732524bc9a7c660032c73133ce27749a64ba456/stetho-okhttp-1.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1732524bc9a7c660032c73133ce27749a64ba456">
+        <dex dex="/Volumes/Dados/Android Tcc/QR-ReaderExample 3 2/qRReaderExample/build/intermediates/pre-dexed/debug/stetho-okhttp-1.1.1-fe9b75eaecaf546902e031528b98e9f6229df0a8.jar" />
+    </item>
+    <item
+        jar="/Users/LuanMonte/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Volumes/Dados/Android Tcc/QR-ReaderExample 3 2/qRReaderExample/build/intermediates/pre-dexed/debug/commons-cli-1.2-b70176856f04d0306352a27942068cb993a22b30.jar" />
+    </item>
+    <item
+        jar="/Volumes/Dados/Android Tcc/QR-ReaderExample 3 2/qRReaderExample/build/intermediates/exploded-aar/com.dlazaro66.qrcodereaderview/qrcodereaderview/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cd3f0aeca8f8e53d60cad6597e69d5d753fb0360">
+        <dex dex="/Volumes/Dados/Android Tcc/QR-ReaderExample 3 2/qRReaderExample/build/intermediates/pre-dexed/debug/classes-10c560d60665196aefbc0e21b9459f85caea7f9a.jar" />
+    </item>
+    <item
+        jar="/Users/LuanMonte/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/Volumes/Dados/Android Tcc/QR-ReaderExample 3 2/qRReaderExample/build/intermediates/pre-dexed/debug/okhttp-2.2.0-1190ea0ce7307b9588cdf53c4c43ea2d70b2cc6e.jar" />
+    </item>
+
+</items>

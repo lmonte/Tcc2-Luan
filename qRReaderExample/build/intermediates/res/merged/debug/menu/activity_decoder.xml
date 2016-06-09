@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_settings"/>
+
+</menu><!-- From: file:/Volumes/Dados/Android%20Tcc/QR-ReaderExample%203%202/qRReaderExample/src/main/res/menu/activity_decoder.xml -->
